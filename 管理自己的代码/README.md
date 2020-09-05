@@ -18,4 +18,6 @@
 
 ------
 
-我们的程序代码将会保存在GitHub上，开启时光之旅前，需要注册一个账号，登录 https://github.com
+我们的程序代码将会保存在GitHub上，开启时光之旅前，需要注册一个账号，到注册地址 https://github.com/join 注册一个账号。
+
+<img src="C:\Users\lixuan\AppData\Roaming\Typora\typora-user-images\image-20200905155946711.png" alt="image-20200905155946711" style="zoom:50%;" />
